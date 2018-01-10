@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Firstandroidapp</string>
+    <string name="button0">Knopf 1</string>
+    <string name="button1">Knopf 2</string>
+    <string name="button2">Knopf 3</string>
+    <string name="text">Hallo Android</string>
 </resources>
